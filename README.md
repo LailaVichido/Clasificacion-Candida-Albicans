@@ -6,8 +6,8 @@ Este proyecto utiliza técnicas de **procesamiento de imágenes** para identific
 Desarrollar una herramienta que permita clasificar automáticamente las fases del hongo para apoyar el diagnóstico clínico mediante visión artificial.
 
 ## 🛠️ Tecnologías utilizadas
-* [cite_start]**Lenguaje:** Python / MATLAB.
-* [cite_start]**Técnicas:** Segmentación morfológica y extracción de descriptores de forma.
+**Lenguaje:** MATLAB.
+**Técnicas:** Segmentación morfológica y extracción de descriptores de forma.
 
 ## 📊 Presentaciones
 Este trabajo fue presentado como póster en el **Congreso de la Juventud Científica de Guanajuato**.
